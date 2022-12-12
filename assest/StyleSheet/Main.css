@@ -1,0 +1,239 @@
+/*Custom Font*/
+@import url('https://fonts.googleapis.com/css2?family=Kadwa:wght@400;700&family=Kurale&display=swap');
+
+
+/*Color Code*/
+:root {
+    --Background-Primary: #061037;
+    --Background-Secoundry: rgba(40, 50, 89, .95);
+    --Text-Primary: #ffffff;
+    --Secoundry: rgba(217, 217, 217, .74);
+}
+
+/*Universal Style*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kadwa', serif;
+
+}
+
+.brand {
+    color: var(--Text-Primary);
+    width: 80px;
+    height: 100vh;
+    background: var(--Background-Primary);
+    font-size: large;
+    font-weight: bold;
+}
+
+.content {
+    width: 100%;
+    height: 100vh;
+    background: url("../Images/BgImg.png") no-repeat fixed;
+    background-size: cover;
+}
+
+.overlay,
+.overlay2 {
+    width: 100%;
+    height: 100%;
+    background: var(--Background-Secoundry);
+    backdrop-filter: blur(1px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.step1 {
+    color: var(--Text-Primary);
+    min-width: 200px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+}
+
+.step2 {
+    color: #061037;
+    width: 100%;
+    height: 100vh;
+    overflow: visible;
+    display: none;
+}
+
+.logo {
+    width: 25%;
+    padding-bottom: 30px;
+}
+
+.heading {
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+
+.message {
+    font-family: 'Kurale', serif;
+    color: var(--Secoundry);
+}
+
+.choice {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.otherInput {
+    background: rgba(6, 16, 55, .34);
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 50%;
+    display: none;
+    text-align: center;
+}
+
+.btn-show {
+    background: var(--Background-Primary);
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 40px;
+    width: 250px;
+    padding: 15px 50px;
+    border: none;
+    outline: none;
+    color: var(--Text-Primary);
+}
+
+.step-controler {
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+}
+
+.ring {
+    display: none;
+    width: 10px;
+    height: 10px;
+    border: 5px solid var(--Background-Primary);
+    border-radius: 50%;
+    position: absolute;
+    z-index: 99999;
+}
+
+.service,
+.TripRootContainer,
+.TripContainer {
+    display: none;
+    position: absolute;
+    top: 1%;
+    right: 4%;
+    padding: 5px;
+    padding-top: 20px;
+    height: 97vh;
+    border-radius: 5px;
+    background: var(--Background-Secoundry);
+    color: var(--Text-Primary);
+    z-index: 999;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+}
+
+.step {
+    display: none;
+    position: absolute;
+    bottom: 1%;
+    left: 1%;
+}
+
+.Back-btn,
+.Prv-btn {
+    background: var(--Background-Primary);
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    letter-spacing: 2px;
+    font-size: larger;
+    color: var(--Text-Primary);
+}
+
+.optsrv {
+    margin: 8px;
+    cursor: pointer;
+}
+
+.place-detail-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding-top: 5px;
+}
+
+
+.place {
+    background: var(--Background-Primary);
+    margin: 3px;
+    margin-bottom: 8px;
+    padding: 8px;
+    width: 98%;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .9),
+        inset 3px 3px 2px rgba(255, 255, 255, .01);
+}
+
+.place>img {
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.place .place-name {
+
+    margin-bottom: 5px;
+}
+
+.place-detail-container .distance span {
+    color: var(--Secoundry);
+    font-family: 'kurale' serif;
+
+    font-size: 15px;
+}
+
+::placeholder {
+    color: var(--Secoundry);
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family: 'Kurale' serif;
+    text-align: center;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+@keyframes search {
+    0% {
+        width: 10px;
+        height: 10px;
+        border: 5px solid var(--Background-Primary);
+    }
+
+    100% {
+        width: 800px;
+        height: 800px;
+        border: 0px solid var(--Background-Primary);
+    }
+}
