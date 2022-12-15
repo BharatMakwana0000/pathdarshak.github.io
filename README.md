@@ -22,9 +22,9 @@
 
 ->To avoid this type of problem we analyse 
     -cliement,
-    -trip long and 
-    -short path
-    -near healper
+    -trip long and, 
+    -short path,
+    -near healper,
  and finally we create best route besed on their requirment
 
  ->It Provide Map Functionality,
@@ -42,14 +42,14 @@
 
 /*=================================================================*/
 
-->Authentication
-->Show Best places
-->Calculating Toor Duration
-->Providing Distance Between Two Point,OR Hall Trip
-->Diffrent Type Of Map Tiles
-->Live Location Tracking
-->helper infon
-->Place Detailed Info
+  ->  Authentication,
+  ->  Show Best places,
+  ->  Calculating Toor Duration,
+  ->  Providing Distance Between Two Point,OR Hall Trip,
+  ->  Diffrent Type Of Map Tiles,
+  ->  Live Location Tracking,
+  ->  helper infon,
+  ->  Place Detailed Info,
 
 etc..,
 
@@ -59,15 +59,15 @@ etc..,
 
 /*=================================================================*/
 
-->HTML,
-->CSS,
-->JS ES6,
-->JQuery,
-->FontAwesome,
-->SweetAlert2,
-->LeafLet MAP API,
-->LeafLet Route Machine API,
-->Travel Advicer API,
+  ->HTML,
+  ->CSS,
+  ->JS ES6,
+  ->JQuery,
+  ->FontAwesome,
+  ->SweetAlert2,
+  ->LeafLet MAP API,
+  ->LeafLet Route Machine API,
+  ->Travel Advicer API,
 
 /*=================================================================*/
                     
@@ -75,10 +75,11 @@ etc..,
 
 /*=================================================================*/
 
-->Figma UI Design (Desinig)
-->Visual Studio  (Cadding)
-->Brave,Chrome,Edge Browser (Testing)
-->Postman (Api Testing)
+  ->Figma UI Design (Desinig).
+  ->Visual Studio  (Cadding).
+  ->Brave,Chrome,Edge Browser (Testing).
+  ->Postman (Api Testing).
+
 /*================================================================*/
          
                     Step To Use Application
