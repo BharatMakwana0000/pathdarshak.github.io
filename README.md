@@ -1,6 +1,6 @@
 
                     
-                    Problem Statement
+    Problem Statement
 
 
 [1].
@@ -14,7 +14,7 @@
 ->Not aver about their route
 
                     
-                             Solution
+    Solution
 
 
 ->To avoid this type of problem we analyse 
@@ -42,7 +42,7 @@
 ->Provide Route Detail Like where you need to take turn left,right or go forwerd
 
                     
-                    Functionality
+    Functionality
 
 
   ->  Authentication,
@@ -64,7 +64,7 @@
 etc..,
 
                     
-                    Technology Used
+    Technology Used
 
 
   ->HTML,
@@ -86,7 +86,7 @@ etc..,
   ->Travel Advicer API,
 
                     
-                        Tool Used
+    Tool Used
 
 
   ->Figma UI Design (Desinig).
@@ -98,7 +98,7 @@ etc..,
   ->Postman (Api Testing).
 
          
-                    Step To Use Application
+    Step To Use Application
 
 
 Default Username & Password:
@@ -148,7 +148,7 @@ const Creadidantial = [{
 [8].![image](https://user-images.githubusercontent.com/120386468/207916560-a83ed00a-34da-4d6d-89af-e53b819bd1a2.png)
 
                     
-                              Map Tiles
+    Map Tiles
                     
   
     [1].Google Street:
