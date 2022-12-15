@@ -1,8 +1,7 @@
-/*=================================================================*/
+
                     
                     Problem Statement
 
-/*=================================================================*/
 
 [1].
 ->Some Time Many Peaople Make Their Toor Trip Without Full Knowledge Of Trip and Affected Factor
@@ -14,11 +13,9 @@
 [3].
 ->Not aver about their route
 
-/*=================================================================*/
                     
                              Solution
 
-/*=================================================================*/
 
 ->To avoid this type of problem we analyse 
     
@@ -44,11 +41,9 @@
 
 ->Provide Route Detail Like where you need to take turn left,right or go forwerd
 
-/*=================================================================*/
                     
                     Functionality
 
-/*=================================================================*/
 
   ->  Authentication,
   
@@ -68,11 +63,9 @@
 
 etc..,
 
-/*=================================================================*/
                     
                     Technology Used
 
-/*=================================================================*/
 
   ->HTML,
   
@@ -92,11 +85,9 @@ etc..,
   
   ->Travel Advicer API,
 
-/*=================================================================*/
                     
                         Tool Used
 
-/*=================================================================*/
 
   ->Figma UI Design (Desinig).
   
@@ -106,11 +97,9 @@ etc..,
   
   ->Postman (Api Testing).
 
-/*================================================================*/
          
                     Step To Use Application
 
-/*================================================================*/
 
 Default Username & Password:
 
@@ -158,11 +147,9 @@ const Creadidantial = [{
 [7].![image](https://user-images.githubusercontent.com/120386468/207916461-0a00ac24-755b-4183-b1e0-d4b933cd8337.png)
 [8].![image](https://user-images.githubusercontent.com/120386468/207916560-a83ed00a-34da-4d6d-89af-e53b819bd1a2.png)
 
-/*=======================================================================*/
                     
                               Map Tiles
                     
-/*======================================================================*/
   
     [1].Google Street:
 ![image](https://user-images.githubusercontent.com/120386468/207916958-59c58c73-5b0e-48bb-8320-c722f5f7162d.png)
