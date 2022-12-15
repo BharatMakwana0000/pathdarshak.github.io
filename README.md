@@ -108,6 +108,3 @@ const Creadidantial = [{
 [1].![image](https://user-images.githubusercontent.com/120386468/207912968-c9db4480-96ab-48ff-927f-0aead92b06fd.png)
 [2].![image](https://user-images.githubusercontent.com/120386468/207913124-6f0ab532-6eb3-42cb-96cd-1995e45c3ade.png)
 [3].![image](https://user-images.githubusercontent.com/120386468/207913616-ca9166e6-b57f-4b07-ac99-e9bd3b29b584.png)
-[4].![image](https://user-images.githubusercontent.com/120386468/207913704-be9791eb-9a9b-4929-86f0-314f0146f23a.png)
-[5].![image](https://user-images.githubusercontent.com/120386468/207913886-1f3b5fef-c981-47ca-824d-2b36eee5523d.png)
-[6].![image](https://user-images.githubusercontent.com/120386468/207914104-536a4118-36e8-4789-81ce-1efcec9a6dff.png)
