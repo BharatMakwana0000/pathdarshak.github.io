@@ -160,22 +160,23 @@ const Creadidantial = [{
 
 /*=======================================================================*/
                     
-                    Map Tiles
+                              Map Tiles
                     
 /*======================================================================*/
-  [1].Google Street:
+  
+    [1].Google Street:
 ![image](https://user-images.githubusercontent.com/120386468/207916958-59c58c73-5b0e-48bb-8320-c722f5f7162d.png)
 
-  [2].OSM:
+    [2].OSM:
 ![image](https://user-images.githubusercontent.com/120386468/207917171-518096bf-f296-4a35-b008-039718576d34.png)
 
-  [3].Google:
+    [3].Google:
  ![image](https://user-images.githubusercontent.com/120386468/207917361-280a9cb1-ce15-4ea0-aef4-955c4a880045.png)
 
-  [4].NETRO:
+    [4].NETRO:
  ![image](https://user-images.githubusercontent.com/120386468/207917526-8ca373d0-b9f0-46b6-8e8c-f261a4e1259f.png)
   
-  [5].Hybrid:
+    [5].Hybrid:
  ![image](https://user-images.githubusercontent.com/120386468/207917637-238112c8-7bdc-46c4-9671-945a76db1efb.png)
 
 
