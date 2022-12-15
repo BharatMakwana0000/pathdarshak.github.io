@@ -21,6 +21,7 @@
 /*=================================================================*/
 
 ->To avoid this type of problem we analyse 
+    
     -cliement,
     
     -trip long and, 
